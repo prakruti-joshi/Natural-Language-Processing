@@ -1,7 +1,6 @@
 # Natural-Language-Processing
 
-Assignments for the course: CS:533 Natural Language Processing
-Intructor: Karl Stratos, Rutgers University
+CS: 533 Intructor: Karl Stratos, Rutgers University
 
 #### Course Outline:
 The topics covered are: 
@@ -11,7 +10,6 @@ The topics covered are:
 * Unsupervised Learning in NLP: Latent-Variable Generative Models, EM Algorithm, Autoencoders, VAEs
 * Information Extraction
 * Large-Scale Transfer Learning 
-
 
 All the assignments are implemented in Python using PyTorch. 
 
