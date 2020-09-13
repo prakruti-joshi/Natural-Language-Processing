@@ -11,6 +11,8 @@ The topics covered are:
 * Information Extraction
 * Large-Scale Transfer Learning 
 
+Project: [Gated Attention Network](https://github.com/prakruti-joshi/Gated-Attention-Network)
+
 All the assignments are implemented in Python using PyTorch. 
 
 #### Assignment 1: 
