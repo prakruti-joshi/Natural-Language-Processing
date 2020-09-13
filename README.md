@@ -2,7 +2,7 @@
 
 CS: 533 Intructor: Karl Stratos, Rutgers University
 
-#### Course Outline:
+### Course Outline:
 The topics covered are: 
 * Language modeling: n-gram models, log-linear models, neural models
 * Deep learning in NLP: RNN, LSTM, Attention models, Transformers, BERT (transfer knowledge models)
@@ -11,10 +11,10 @@ The topics covered are:
 * Information Extraction
 * Large-Scale Transfer Learning 
 
-#### Project: 
+### Project: 
 [Gated Attention Network](https://github.com/prakruti-joshi/Gated-Attention-Network)
 
-#### Assignments:
+### Assignments:
 
 All the assignments are implemented in Python using PyTorch. 
 
